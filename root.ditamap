@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>a<?oxy_insert_start author="Bogdan Dumitru" timestamp="20250304T120250+0000"?>aaaaaaaaaaaa<?oxy_insert_end?>Webinar
-        31234aaa</title>
+    <title>aWebinar 31234aaa</title>
     <topicref href="script.dita"/>
 </map>
 <?oxy_options track_changes="on"?>
